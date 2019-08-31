@@ -1,0 +1,340 @@
+body{
+  margin: 0;
+  padding: 0;  
+}
+.container{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    height: 90px;
+}
+.container2{
+    display: flex;
+    align-items: center;
+    background: url('../images/apply.jpg') no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+#img{
+    margin:9px;
+}
+#staff{
+    margin-left: 700px;
+    text-decoration: none;
+}
+#email{
+    margin-left: 15px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.clear{
+    clear: both;
+}
+.menu{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 60px;
+}
+#ho{
+    color: white;
+    font-size: 20px;
+    margin-right: 30px;
+}
+a:hover{
+    background-color: yellow;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    height: 500px;
+}
+
+#img2{
+   height: 500px;
+   margin-right: 40px;
+}
+#vc{
+    margin-left: 40px;
+    font-size: 25px;
+}
+#word{
+    margin:10px;
+    padding: 10px;
+    height: 460px;
+    font: bolder;
+    font-size: 18px;
+}
+#scroll{
+    color:red;
+    font: bolder;
+    height: 20px;
+}
+.menu2{
+    display: flex;
+    align-items: center;
+    background: url('../images/cbt.jpg') no-repeat;
+    background-size: cover;
+    width: 100px;
+    background-color:white;
+    height: 190px;
+    opacity: .9;
+}
+.bull{
+    display: flex;
+    align-items: center;
+    background-color: #80B23F;
+    height: 200px;
+    width: 250px;
+    margin-left: 40px;
+    margin-right: 50px;
+}
+.bull2{
+    display: flex;
+    align-items: center;
+    opacity: .8px;
+    background-color: #E8BC41;
+    height: 200px;
+    width: 250px;
+    margin-right: 60px;
+}
+.bull3{
+    display: flex;
+    align-items: center;
+    opacity: .8px;
+    background-color: #E63792;
+    height: 200px;
+    width: 250px;
+    margin-right: 60px;
+}
+.bull4{
+    display: flex;
+    align-items: center;
+    opacity: .8px;
+    background-color:#EF6000;
+    height: 200px;
+    width: 250px;
+    margin-right: 40px;
+}
+h2{
+    display: flex;
+    align-self: auto;
+    color: white;
+    margin-left: 40px;
+}
+.adminform{
+    height: 500px;
+    margin-left: 100px;
+}
+#adminform{
+    display: flex;
+    align-self: center;
+    margin-left: 40px;
+    font-size: 30px;
+    padding: 15px;
+    color: white;
+}
+.form{
+    display: flex;
+    align-items: auto;
+    margin-left: 30px;
+}
+#first{
+    margin-right: 65px;
+    color: white;
+}
+#txt1{
+    background-color:white;
+    width: 300px;
+    height: 28px; 
+    margin-left: 2px;  
+}
+#txt2{
+    background-color:white;
+    width: 302px;
+    height: 28px;
+    margin-left: 24px;
+}
+#can{
+    margin-right: 40px;
+    color: white;
+}
+#Gender{
+    margin-right: 40px;
+    color: white;
+    margin-left: 68px;
+}
+#opt{
+    background-color:white;
+    width: 305px;
+    height: 28px;
+    margin-left: 24px;
+}
+#state{
+    margin-right: 40px;
+    color: white;
+    margin-left: 24px;
+}
+#opt2{
+    background-color:white;
+    width: 305px;
+    height: 28px;
+    margin-left: 20px;
+}
+#phone{
+    margin-right: 40px;
+    color: white;
+    margin-left: 23px;
+}
+#txt3{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-left: 20px;
+}
+#date{
+    margin-right: 40px;
+    color: white;
+    margin-left: 29px;
+}
+#txt4{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-left: 22px;
+}
+.nicepage{
+    margin-top:48px;
+    height: 340px;
+    width:500px;
+    margin-left: 50px;
+}
+#title{
+    margin-left: 124px;
+    width: 100px;
+    height: 28px;
+}
+#sur{
+    margin-left: 30px;
+    color: white;
+}
+#txt5{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-left: 57px;
+}
+#txt6{
+    background-color:white;
+    width: 302px;
+    height: 28px;
+    margin-left: 83px;
+}
+#lga{
+    color: white
+}
+#mail{
+    margin-left:30px;
+    color: white;
+}
+#txt7{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-left: 75px;
+}
+.admi{
+    display: flex;
+    position: initial;
+    background: cover;
+    background-color:red;
+    height: 100px;
+}
+#small{
+    margin-left: 500px;
+    height: 160px;
+}
+#status{
+    margin-left: 29px;
+    color: white;
+    margin-right: 2px;
+}
+#add{
+    color: white;
+    margin-left:30px;
+}
+#txt8{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-left: 59px;
+}
+.course{
+    background-color: aliceblue;
+    height: 90px;
+}
+#personal2{
+    color: #E63792;
+}
+.stu{
+    background: url('../images/FACIL_front.jpg') no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+#stu-log{
+    background-color: white;
+    height: 300px;
+    width: 400px;
+    margin-left: 400px;
+}
+#mypage{
+    display: flex;
+    position: center;
+    margin-left:130px;
+    font: bolder;
+    font-size: 20px;
+    color: blue;
+}
+#txt9{
+    background-color:white;
+    width: 300px;
+    height: 28px;
+    margin-right: 100px;
+}
+#mypage2{
+    margin-left:110px;
+}
+#sub{
+    margin-left: 12px;
+    height: 30px;
+    width:70px;
+    color: grey;
+    background-color: darkblue;
+}
+.cent{
+    background: url('../images/newstumb.jpg') no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+#mypage1{
+    margin-left:50px;
+    width: 50px;
+
+}
+#mypage3{
+    margin-left:150px;
+}
+.staff{
+    background-color:#496A61;
+    height: 600px;
+}
+#small2{
+    margin-left: 450px;
+    height: 160px;
+}
